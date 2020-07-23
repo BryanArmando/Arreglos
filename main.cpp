@@ -9,7 +9,7 @@ int main() {
   pares(b);
 return 0;
 }
-
+//Ingresa numeros randomicos
 void pares (int a){
   int n[100];
   for (int i=1;i<=a;i++){
